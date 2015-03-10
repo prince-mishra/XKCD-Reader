@@ -4,8 +4,8 @@ public class Constants {
     public static final int LATEST_COMIC_NUMBER = -42;
 
     public static class API {
-        public static final String LATEST_COMIC_ENDPOINT = "http://xkcd.com/info.0.json";
-        public static final String SPECIFIC_COMIC_ENDPOINT = "http://xkcd.com/%d/info.0.json";
+        public static final String LATEST_COMIC_ENDPOINT = "http://khattacorp-json-api.appspot.com/info.0.json";
+        public static final String SPECIFIC_COMIC_ENDPOINT = "http://khattacorp-json-api.appspot.com/%d/info.0.json";
     }
 
     public static class Extra {

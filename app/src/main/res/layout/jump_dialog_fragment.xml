@@ -8,7 +8,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Comic Number"
+        android:text="Khatta Number"
         android:id="@+id/tv_comic_number_label"/>
     <EditText
         android:layout_width="match_parent"
